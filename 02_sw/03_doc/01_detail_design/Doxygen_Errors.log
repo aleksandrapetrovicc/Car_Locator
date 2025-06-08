@@ -1,0 +1,248 @@
+error: When enabling GENERATE_HTMLHELP the SEARCHENGINE option should be disabled. I'll adjust it for you.
+error: When enabling GENERATE_HTMLHELP the HTML_DYNAMIC_MENUS option should be disabled. I'll adjust it for you.
+error: When enabling 'GENERATE_HTMLHELP' the 'HTML_COLORSTYLE' option should be either 'LIGHT' or 'DARK' but has value 'AUTO_LIGHT'. I'll adjust it for you to 'LIGHT'.
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.h:47: warning: argument 'None' of command @param is not found in the argument list of CALCM_u_CalculateBearing(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.c:263: warning: argument 'double' of command @param is not found in the argument list of f_CalculateDistance(double f_CarLongitude, double f_StartingLongitude)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.c:263: warning: The following parameters of f_CalculateDistance(double f_CarLongitude, double f_StartingLongitude) are not documented:
+  parameter 'f_CarLongitude'
+  parameter 'f_StartingLongitude'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.c:167: warning: p_SetCoordinates has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.c:11: warning: argument 'uint8_t' of command @param is not found in the argument list of v_ConvertToNumbers(uint8_t *u_TempBuffer, double f_LowLimit, double f_HighLimit)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.c:11: warning: The following parameters of v_ConvertToNumbers(uint8_t *u_TempBuffer, double f_LowLimit, double f_HighLimit) are not documented:
+  parameter 'u_TempBuffer'
+  parameter 'f_LowLimit'
+  parameter 'f_HighLimit'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/CALCM/CALCM.h:47: warning: argument 'None' of command @param is not found in the argument list of CALCM_u_CalculateBearing(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:161: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_u_Read(uint8_t u_Address, uint8_t *u_Buffer, uint8_t u_Size)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:161: warning: The following parameters of I2C_u_Read(uint8_t u_Address, uint8_t *u_Buffer, uint8_t u_Size) are not documented:
+  parameter 'u_Address'
+  parameter 'u_Buffer'
+  parameter 'u_Size'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:130: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_u_SendAddress(uint8_t u_Address)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:130: warning: The following parameter of I2C_u_SendAddress(uint8_t u_Address) is not documented:
+  parameter 'u_Address'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:16: warning: I2C_v_Configure has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:16: warning: found documented return type for I2C_v_Configure that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:39: warning: I2C_v_Start has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:39: warning: found documented return type for I2C_v_Start that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:69: warning: I2C_v_Stop has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:69: warning: found documented return type for I2C_v_Stop that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_v_Write(uint8_t u_Data)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: The following parameter of I2C_v_Write(uint8_t u_Data) is not documented:
+  parameter 'u_Data'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: found documented return type for I2C_v_Write that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:161: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_u_Read(uint8_t u_Address, uint8_t *u_Buffer, uint8_t u_Size)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:161: warning: The following parameters of I2C_u_Read(uint8_t u_Address, uint8_t *u_Buffer, uint8_t u_Size) are not documented:
+  parameter 'u_Address'
+  parameter 'u_Buffer'
+  parameter 'u_Size'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:130: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_u_SendAddress(uint8_t u_Address)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:130: warning: The following parameter of I2C_u_SendAddress(uint8_t u_Address) is not documented:
+  parameter 'u_Address'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:16: warning: I2C_v_Configure has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:16: warning: found documented return type for I2C_v_Configure that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:39: warning: I2C_v_Start has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:39: warning: found documented return type for I2C_v_Start that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:69: warning: I2C_v_Stop has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:69: warning: found documented return type for I2C_v_Stop that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: argument 'uint8_t' of command @param is not found in the argument list of I2C_v_Write(uint8_t u_Data)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: The following parameter of I2C_v_Write(uint8_t u_Data) is not documented:
+  parameter 'u_Data'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/I2C/src/I2C.h:92: warning: found documented return type for I2C_v_Write that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/LEDM/src/LEDM.h:10: warning: LEDM_v_Main has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/LEDM/src/LEDM.h:10: warning: found documented return type for LEDM_v_Main that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/LEDM/src/LEDM.h:10: warning: LEDM_v_Main has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/LEDM/src/LEDM.h:10: warning: found documented return type for LEDM_v_Main that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:51: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_EXTI1_Configuration(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:51: warning: found documented return type for MCP23017_v_EXTI1_Configuration that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:74: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_Init(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:74: warning: found documented return type for MCP23017_v_Init that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:104: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_TurnLEDviaCoordinates(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:104: warning: found documented return type for MCP23017_v_TurnLEDviaCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:191: warning: argument 'None' of command @param is not found in the argument list of u_Button_Read(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:97: warning: argument 'uint8_t' of command @param is not found in the argument list of v_Read(uint8_t u_Address, uint8_t u_Reg, uint8_t *u_Buffer, uint8_t u_Size)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:97: warning: The following parameters of v_Read(uint8_t u_Address, uint8_t u_Reg, uint8_t *u_Buffer, uint8_t u_Size) are not documented:
+  parameter 'u_Address'
+  parameter 'u_Reg'
+  parameter 'u_Buffer'
+  parameter 'u_Size'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:97: warning: found documented return type for v_Read that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:161: warning: argument 'uint8_t' of command @param is not found in the argument list of v_TurnLED(uint8_t u_Value)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:161: warning: The following parameter of v_TurnLED(uint8_t u_Value) is not documented:
+  parameter 'u_Value'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:161: warning: found documented return type for v_TurnLED that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:55: warning: argument 'uint8_t' of command @param is not found in the argument list of v_Write(uint8_t u_Address, uint8_t u_Reg, uint8_t u_Data)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:55: warning: The following parameters of v_Write(uint8_t u_Address, uint8_t u_Reg, uint8_t u_Data) are not documented:
+  parameter 'u_Address'
+  parameter 'u_Reg'
+  parameter 'u_Data'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.c:55: warning: found documented return type for v_Write that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:51: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_EXTI1_Configuration(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:51: warning: found documented return type for MCP23017_v_EXTI1_Configuration that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:74: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_Init(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:74: warning: found documented return type for MCP23017_v_Init that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:104: warning: argument 'None' of command @param is not found in the argument list of MCP23017_v_TurnLEDviaCoordinates(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MCP23017/src/MCP23017.h:104: warning: found documented return type for MCP23017_v_TurnLEDviaCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:33: warning: argument 'None' of command @param is not found in the argument list of Task_LED_CP_End(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:33: warning: found documented return type for Task_LED_CP_End that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:10: warning: argument 'None' of command @param is not found in the argument list of Task_LED_CP_Start(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:10: warning: found documented return type for Task_LED_CP_Start that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:33: warning: argument 'None' of command @param is not found in the argument list of Task_LED_CP_End(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:33: warning: found documented return type for Task_LED_CP_End that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:10: warning: argument 'None' of command @param is not found in the argument list of Task_LED_CP_Start(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MONITOR/MONITOR.h:10: warning: found documented return type for Task_LED_CP_Start that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:235: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_b_CircularBufferIsEmpty(e_RingBuffers e_BufferID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:235: warning: The following parameter of MSGM_b_CircularBufferIsEmpty(e_RingBuffers e_BufferID) is not documented:
+  parameter 'e_BufferID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:154: warning: argument 'e_ReceiverID' of command @param is not found in the argument list of MSGM_e_MessageRetrieve(e_ReceiverID e_ID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:154: warning: The following parameter of MSGM_e_MessageRetrieve(e_ReceiverID e_ID) is not documented:
+  parameter 'e_ID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:351: warning: MSGM_p_GetCoordinates has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:374: warning: argument 'None' of command @param is not found in the argument list of MSGM_p_GetRawMessage(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_t_GetCoordinates(uint8_t *TempBuffer)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: The following parameter of MSGM_t_GetCoordinates(uint8_t *TempBuffer) is not documented:
+  parameter 'TempBuffer'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: found documented return type for MSGM_t_GetCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:209: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_u_CircularBufferPop(e_RingBuffers e_BufferID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:209: warning: The following parameter of MSGM_u_CircularBufferPop(e_RingBuffers e_BufferID) is not documented:
+  parameter 'e_BufferID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:181: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_u_CircularBufferPush(e_RingBuffers e_BufferID, uint8_t UARTM_u_data)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:181: warning: The following parameters of MSGM_u_CircularBufferPush(e_RingBuffers e_BufferID, uint8_t UARTM_u_data) are not documented:
+  parameter 'e_BufferID'
+  parameter 'UARTM_u_data'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_v_ClearMessage(uint8_t index)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: The following parameter of MSGM_v_ClearMessage(uint8_t index) is not documented:
+  parameter 'index'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: found documented return type for MSGM_v_ClearMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_v_Sort(uint8_t *UARTM_a_array)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: The following parameter of MSGM_v_Sort(uint8_t *UARTM_a_array) is not documented:
+  parameter 'UARTM_a_array'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: found documented return type for MSGM_v_Sort that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:256: warning: MSGM_v_StateMachine has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:256: warning: found documented return type for MSGM_v_StateMachine that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:235: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_b_CircularBufferIsEmpty(e_RingBuffers e_BufferID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:235: warning: The following parameter of MSGM_b_CircularBufferIsEmpty(e_RingBuffers e_BufferID) is not documented:
+  parameter 'e_BufferID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:154: warning: argument 'e_ReceiverID' of command @param is not found in the argument list of MSGM_e_MessageRetrieve(e_ReceiverID e_ID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:154: warning: The following parameter of MSGM_e_MessageRetrieve(e_ReceiverID e_ID) is not documented:
+  parameter 'e_ID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:351: warning: argument 'None' of command @param is not found in the argument list of MSGM_p_GetCoordinates(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:374: warning: argument 'None' of command @param is not found in the argument list of MSGM_p_GetRawMessage(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_t_GetCoordinates(uint8_t *TempBuffer)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: The following parameter of MSGM_t_GetCoordinates(uint8_t *TempBuffer) is not documented:
+  parameter 'TempBuffer'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:322: warning: found documented return type for MSGM_t_GetCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:209: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_u_CircularBufferPop(e_RingBuffers e_BufferID)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:209: warning: The following parameter of MSGM_u_CircularBufferPop(e_RingBuffers e_BufferID) is not documented:
+  parameter 'e_BufferID'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:181: warning: argument 'e_RingBuffers' of command @param is not found in the argument list of MSGM_u_CircularBufferPush(e_RingBuffers e_BufferID, uint8_t UARTM_u_data)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:181: warning: The following parameters of MSGM_u_CircularBufferPush(e_RingBuffers e_BufferID, uint8_t UARTM_u_data) are not documented:
+  parameter 'e_BufferID'
+  parameter 'UARTM_u_data'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_v_ClearMessage(uint8_t index)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: The following parameter of MSGM_v_ClearMessage(uint8_t index) is not documented:
+  parameter 'index'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:132: warning: found documented return type for MSGM_v_ClearMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: argument 'uint8_t' of command @param is not found in the argument list of MSGM_v_Sort(uint8_t *UARTM_a_array)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: The following parameter of MSGM_v_Sort(uint8_t *UARTM_a_array) is not documented:
+  parameter 'UARTM_a_array'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:83: warning: found documented return type for MSGM_v_Sort that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:256: warning: MSGM_v_StateMachine has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/MSGM/MSGM.h:256: warning: found documented return type for MSGM_v_StateMachine that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:363: warning: argument 'None' of command @param is not found in the argument list of SIM_b_GetFlag(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:340: warning: argument 'None' of command @param is not found in the argument list of SIM_p_Function(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:128: warning: argument 'None' of command @param is not found in the argument list of SIM_p_ReceiveCoordinates(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: argument 'e_SIM_KnownCaller' of command @param is not found in the argument list of SIM_v_Call(e_SIM_KnownCaller e_Caller)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: The following parameter of SIM_v_Call(e_SIM_KnownCaller e_Caller) is not documented:
+  parameter 'e_Caller'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: found documented return type for SIM_v_Call that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: argument 'uint8_t' of command @param is not found in the argument list of SIM_v_CallNumber(uint8_t *u_Number)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: The following parameter of SIM_v_CallNumber(uint8_t *u_Number) is not documented:
+  parameter 'u_Number'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: found documented return type for SIM_v_CallNumber that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:151: warning: argument 'None' of command @param is not found in the argument list of SIM_v_EndCall(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:151: warning: found documented return type for SIM_v_EndCall that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:103: warning: argument 'None' of command @param is not found in the argument list of SIM_v_ReceiveMessage(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:103: warning: found documented return type for SIM_v_ReceiveMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: argument 'e_SIM_KnownCaller' of command @param is not found in the argument list of SIM_v_SendCoordinates(e_SIM_KnownCaller e_Caller)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: The following parameter of SIM_v_SendCoordinates(e_SIM_KnownCaller e_Caller) is not documented:
+  parameter 'e_Caller'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: found documented return type for SIM_v_SendCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: argument 'uint8_t' of command @param is not found in the argument list of SIM_v_SendMessage(uint8_t *u_Message, uint8_t *u_Number)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: The following parameters of SIM_v_SendMessage(uint8_t *u_Message, uint8_t *u_Number) are not documented:
+  parameter 'u_Message'
+  parameter 'u_Number'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: found documented return type for SIM_v_SendMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:74: warning: argument 'None' of command @param is not found in the argument list of SIM_v_Setup(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:74: warning: found documented return type for SIM_v_Setup that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:297: warning: argument 'None' of command @param is not found in the argument list of SIM_v_StateMachine(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:297: warning: found documented return type for SIM_v_StateMachine that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:54: warning: argument 'None' of command @param is not found in the argument list of v_EndOfCommand(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:54: warning: found documented return type for v_EndOfCommand that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:86: warning: argument 'e_Command' of command @param is not found in the argument list of v_SendCommand(e_Command e_SIM_Command)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:86: warning: The following parameter of v_SendCommand(e_Command e_SIM_Command) is not documented:
+  parameter 'e_SIM_Command'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:86: warning: found documented return type for v_SendCommand that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:17: warning: argument 'uint8_t' of command @param is not found in the argument list of v_WriteIntoBuffer(uint8_t *u_Buffer, uint8_t u_Cnt, uint8_t *u_Message)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.c:17: warning: The following parameters of v_WriteIntoBuffer(uint8_t *u_Buffer, uint8_t u_Cnt, uint8_t *u_Message) are not documented:
+  parameter 'u_Buffer'
+  parameter 'u_Cnt'
+  parameter 'u_Message'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:363: warning: argument 'None' of command @param is not found in the argument list of SIM_b_GetFlag(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:340: warning: argument 'None' of command @param is not found in the argument list of SIM_p_Function(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:128: warning: argument 'None' of command @param is not found in the argument list of SIM_p_ReceiveCoordinates(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: argument 'e_SIM_KnownCaller' of command @param is not found in the argument list of SIM_v_Call(e_SIM_KnownCaller e_Caller)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: The following parameter of SIM_v_Call(e_SIM_KnownCaller e_Caller) is not documented:
+  parameter 'e_Caller'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:206: warning: found documented return type for SIM_v_Call that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: argument 'uint8_t' of command @param is not found in the argument list of SIM_v_CallNumber(uint8_t *u_Number)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: The following parameter of SIM_v_CallNumber(uint8_t *u_Number) is not documented:
+  parameter 'u_Number'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:174: warning: found documented return type for SIM_v_CallNumber that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:151: warning: argument 'None' of command @param is not found in the argument list of SIM_v_EndCall(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:151: warning: found documented return type for SIM_v_EndCall that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:103: warning: argument 'None' of command @param is not found in the argument list of SIM_v_ReceiveMessage(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:103: warning: found documented return type for SIM_v_ReceiveMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: argument 'e_SIM_KnownCaller' of command @param is not found in the argument list of SIM_v_SendCoordinates(e_SIM_KnownCaller e_Caller)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: The following parameter of SIM_v_SendCoordinates(e_SIM_KnownCaller e_Caller) is not documented:
+  parameter 'e_Caller'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:267: warning: found documented return type for SIM_v_SendCoordinates that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: argument 'uint8_t' of command @param is not found in the argument list of SIM_v_SendMessage(uint8_t *u_Message, uint8_t *u_Number)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: The following parameters of SIM_v_SendMessage(uint8_t *u_Message, uint8_t *u_Number) are not documented:
+  parameter 'u_Message'
+  parameter 'u_Number'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:233: warning: found documented return type for SIM_v_SendMessage that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:74: warning: argument 'None' of command @param is not found in the argument list of SIM_v_Setup(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:74: warning: found documented return type for SIM_v_Setup that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:297: warning: argument 'None' of command @param is not found in the argument list of SIM_v_StateMachine(void)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/SIM/src/SIM.h:297: warning: found documented return type for SIM_v_StateMachine that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:38: warning: UARTM2_u_GetChar has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: argument 'uint8_t' of command @param is not found in the argument list of UARTM2_v_SendChar(uint8_t u_character)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: The following parameter of UARTM2_v_SendChar(uint8_t u_character) is not documented:
+  parameter 'u_character'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: found documented return type for UARTM2_v_SendChar that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: argument 'uint8_t' of command @param is not found in the argument list of UARTM2_v_SendString(uint8_t *u_string)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: The following parameter of UARTM2_v_SendString(uint8_t *u_string) is not documented:
+  parameter 'u_string'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: found documented return type for UARTM2_v_SendString that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:91: warning: UARTM_v_ClearBuffer has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:91: warning: found documented return type for UARTM_v_ClearBuffer that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:115: warning: UARTM_v_Uart2Config has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:115: warning: found documented return type for UARTM_v_Uart2Config that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:63: warning: UARTM_v_Uart3Config has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:63: warning: found documented return type for UARTM_v_Uart3Config that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:38: warning: UARTM2_u_GetChar has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: argument 'uint8_t' of command @param is not found in the argument list of UARTM2_v_SendChar(uint8_t u_character)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: The following parameter of UARTM2_v_SendChar(uint8_t u_character) is not documented:
+  parameter 'u_character'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:143: warning: found documented return type for UARTM2_v_SendChar that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: argument 'uint8_t' of command @param is not found in the argument list of UARTM2_v_SendString(uint8_t *u_string)
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: The following parameter of UARTM2_v_SendString(uint8_t *u_string) is not documented:
+  parameter 'u_string'
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:11: warning: found documented return type for UARTM2_v_SendString that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:91: warning: UARTM_v_ClearBuffer has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:91: warning: found documented return type for UARTM_v_ClearBuffer that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:115: warning: UARTM_v_Uart2Config has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:115: warning: found documented return type for UARTM_v_Uart2Config that does not return anything
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:63: warning: UARTM_v_Uart3Config has @param documentation sections but no arguments
+C:/Users/uif85308/Desktop/p/p/Car_Locator/APPL/02_sw/02_src/UARTM/src/UARTM.h:63: warning: found documented return type for UARTM_v_Uart3Config that does not return anything
