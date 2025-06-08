@@ -1,1 +1,4 @@
 04_build/
+.project
+.metadata/
+.settings/
